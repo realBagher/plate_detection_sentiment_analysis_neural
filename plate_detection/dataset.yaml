@@ -1,6 +1,0 @@
-
-train: /mnt/i/#Repos/plate_detection_sentiment_analysis_neural/test
-val: /mnt/i/#Repos/plate_detection_sentiment_analysis_neural/validation
-test: /mnt/i/#Repos/plate_detection_sentiment_analysis_neural/testset
-nc: 1
-names: ['license_plate']
